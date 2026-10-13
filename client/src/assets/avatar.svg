@@ -1,0 +1,23 @@
+<svg width="420" height="420" viewBox="0 0 420 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Portrait of Alex Morgan">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="420" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6366F1"/>
+      <stop offset="0.55" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#06B6D4"/>
+    </linearGradient>
+    <linearGradient id="shirt" x1="110" y1="250" x2="310" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#1E293B"/>
+    </linearGradient>
+  </defs>
+  <rect width="420" height="420" rx="96" fill="url(#bg)"/>
+  <circle cx="210" cy="168" r="78" fill="#F1C7A6"/>
+  <path d="M132 168c-6-64 32-96 78-96s84 32 78 96c-6-30-30-46-78-46s-72 16-78 46Z" fill="#2B2B3C"/>
+  <circle cx="182" cy="170" r="8" fill="#1F2937"/>
+  <circle cx="238" cy="170" r="8" fill="#1F2937"/>
+  <path d="M186 206c12 12 40 12 52 0" stroke="#B9805F" stroke-width="7" stroke-linecap="round"/>
+  <path d="M86 420c6-92 62-138 124-138s118 46 124 138H86Z" fill="url(#shirt)"/>
+  <path d="M150 300c18 20 42 30 60 30s42-10 60-30l16 24c-24 26-52 38-76 38s-52-12-76-38l16-24Z" fill="#312E81" opacity="0.6"/>
+  <circle cx="315" cy="105" r="16" fill="#FFFFFF" opacity="0.25"/>
+  <circle cx="105" cy="330" r="10" fill="#FFFFFF" opacity="0.2"/>
+</svg>

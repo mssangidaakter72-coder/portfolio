@@ -1,0 +1,45 @@
+<svg width="800" height="500" viewBox="0 0 800 500" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="PulseBoard analytics project preview">
+  <defs>
+    <linearGradient id="pa-bg" x1="0" y1="0" x2="800" y2="500" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#DB2777"/>
+      <stop offset="1" stop-color="#F97316"/>
+    </linearGradient>
+    <linearGradient id="pa-area" x1="0" y1="140" x2="0" y2="330" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F472B6" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#F472B6" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#pa-bg)"/>
+  <circle cx="120" cy="90" r="110" fill="#FFFFFF" opacity="0.1"/>
+  <circle cx="700" cy="430" r="120" fill="#FFFFFF" opacity="0.08"/>
+  <rect x="60" y="60" width="680" height="380" rx="20" fill="#111827"/>
+  <rect x="92" y="92" width="180" height="60" rx="12" fill="#1F2937"/>
+  <rect x="292" y="92" width="180" height="60" rx="12" fill="#1F2937"/>
+  <rect x="492" y="92" width="216" height="60" rx="12" fill="#1F2937"/>
+  <g fill="#F9A8D4">
+    <rect x="108" y="108" width="70" height="10" rx="5"/>
+    <rect x="308" y="108" width="70" height="10" rx="5"/>
+    <rect x="508" y="108" width="80" height="10" rx="5"/>
+  </g>
+  <g fill="#FDE68A">
+    <rect x="108" y="128" width="46" height="14" rx="6"/>
+    <rect x="308" y="128" width="46" height="14" rx="6"/>
+    <rect x="508" y="128" width="52" height="14" rx="6"/>
+  </g>
+  <rect x="92" y="176" width="616" height="240" rx="14" fill="#1F2937"/>
+  <path d="M112 340 L180 300 L248 320 L316 240 L384 268 L452 200 L520 236 L588 180 L688 220 L688 396 L112 396 Z" fill="url(#pa-area)"/>
+  <path d="M112 340 L180 300 L248 320 L316 240 L384 268 L452 200 L520 236 L588 180 L688 220" stroke="#FB7185" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#F472B6">
+    <circle cx="316" cy="240" r="6"/>
+    <circle cx="588" cy="180" r="6"/>
+  </g>
+  <g fill="#374151">
+    <rect x="130" y="380" width="60" height="8" rx="4"/>
+    <rect x="210" y="380" width="60" height="8" rx="4"/>
+    <rect x="290" y="380" width="60" height="8" rx="4"/>
+    <rect x="370" y="380" width="60" height="8" rx="4"/>
+    <rect x="450" y="380" width="60" height="8" rx="4"/>
+    <rect x="530" y="380" width="60" height="8" rx="4"/>
+    <rect x="610" y="380" width="60" height="8" rx="4"/>
+  </g>
+</svg>
