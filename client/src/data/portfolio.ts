@@ -32,7 +32,7 @@ export const profile: Profile = {
   email: "hello@alexmorgan.dev",
   availability: "Available for freelance & full-time roles",
   avatar,
-  resumeUrl: "/resume.html",
+  resumeUrl: "resume.html",
   socials: [
     { label: "GitHub", url: "https://github.com/your-github", icon: "github" },
     { label: "LinkedIn", url: "https://linkedin.com/in/your-linkedin", icon: "linkedin" },
