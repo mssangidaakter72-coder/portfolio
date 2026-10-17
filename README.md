@@ -6,6 +6,14 @@ A modern, fully responsive web developer portfolio built with **React + TypeScri
 
 ---
 
+## 🚀 Live site
+
+**https://mssangidaakter72-coder.github.io/portfolio/** — deployed automatically to **GitHub Pages** on every push to `main` (see `.github/workflows/deploy-pages.yml`).
+
+> The contact form needs a backend. On GitHub Pages it shows a friendly error; deploy the `server/` + `api/` function (e.g. to Vercel) to make it send email.
+
+---
+
 ## ✨ Features
 
 - **Hero** section with photo, animated role rotator and professional bio
